@@ -102,11 +102,6 @@ export function Login({ onLogin }: LoginProps) {
             </button>
           </div>
 
-          <div className="text-sm text-center text-gray-600 dark:text-gray-400">
-            <p className="mb-2">Comptes de démonstration :</p>
-            <p>Admin : admin@example.com / admin</p>
-            <p>Utilisateur : user@example.com / user</p>
-          </div>
         </form>
       </div>
     </div>
